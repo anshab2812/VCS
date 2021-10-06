@@ -5,8 +5,8 @@
 int main(int argc, char *argv[ ]) 
 {
 QApplication app(argc, argv);
- 
-QLabel label("<h2><i>Hello,<i>" "<font size="6"> Shabal Anna</font><h2>");
+
+QLabel label("<h2><i>Hello, <i>" "<font size="6">Shabal Anna and Alexander Karatanov</font><h2>");
 label.show( );
  
 return app.exec( );
